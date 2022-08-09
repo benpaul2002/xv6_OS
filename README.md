@@ -1,4 +1,4 @@
-# OS Assignment 4
+# xv6 OS
 
 # Specification 1: syscall tracing
 
